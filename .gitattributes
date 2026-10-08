@@ -1,0 +1,2 @@
+# 改行は LF に統一(Dockerfile の CMD 行末に CR が入ると起動に失敗するため)
+* text=auto eol=lf
